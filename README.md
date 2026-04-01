@@ -12,14 +12,6 @@
   - [Instagram](https://www.instagram.com/_priyanshkumar?igsh=NDAxdDQxODU5c3I2)  
 - 😄 Pronouns: He/Him
 
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=priyansh-codes&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyansh-codes&show_icons=true&theme=radical)
-
-<br/>
-<br/>
-
 ## My Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
